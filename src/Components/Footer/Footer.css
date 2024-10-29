@@ -1,0 +1,48 @@
+.footer{
+   display: flex; 
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 50px;
+}
+.footer-logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.footer-logo p{
+    color:#293790;
+    font-size: 30px;
+    font-weight: 700;
+}
+.footer-links{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    color:#293790;
+    font-size: 20px;
+}
+.footer-links li{
+    cursor: pointer;
+}
+.social-icon{
+   display: flex; 
+   gap: 20px;
+}
+.icon-container{
+    padding: 10px;
+    padding-bottom: 6px;
+    background: white;
+    border: 1px solid black;
+}
+.footer-copyright{
+   display: flex; 
+   flex-direction: column;
+   align-items: center;
+   gap: 30px;
+   width: 100%;
+   color: #293790;
+   font-size: 20px;
+}
+
+
