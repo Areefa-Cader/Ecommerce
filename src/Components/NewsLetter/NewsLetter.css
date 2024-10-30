@@ -7,7 +7,7 @@
     flex-direction: column;
     margin:auto;
     padding: 0px 140px;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     background:linear-gradient(180deg, #FCD8B5 , #E1E3E3 60%);
     gap: 30px;
 }

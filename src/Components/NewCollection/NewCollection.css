@@ -11,10 +11,12 @@
     font-weight: 600;
 }
 .new-collection hr{
-    width: 200px;
-    height: 3px;
-    border-radius: 10px;
-    border: 2px solid #F78C21;
+  
+        width: 200px;
+        height: 3px;
+        border-radius: 10px;
+        background: #F78C21;
+    
 }
 .new-collection-item{
     margin-top: 50px;
